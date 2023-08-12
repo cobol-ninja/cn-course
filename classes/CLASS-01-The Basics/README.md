@@ -7,7 +7,7 @@ Edit, compile and run the following programs:<br>
 | CLS01EX01 | Display 'Hello Cobol World' |
 | CLS01EX02 | - Accept a value into a variable<br>- Display the content of the variable |
 | CLS01EX03 | - Accept a value into a variable<br>- Move the content of the variable to a second variable<br>- Display the content of the second variable|
-| CLS01EX04 | Accept a value into a variable; Display the content of the variable |
+| CLS01EX04 | Accept 2 values into two numeric variable<br>- Display the sum of the two variables |
 | CLS01EX05 | Accept a value into a variable; Display the content of the variable |
 | CLS01EX06 | Accept a value into a variable; Display the content of the variable |
 | CLS01EX07 | Accept a value into a variable; Display the content of the variable |
