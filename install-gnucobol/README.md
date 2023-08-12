@@ -48,9 +48,14 @@ download the 64-bit version as seen here [GC32M-BDB-x64.7z] <br><br>
    <a name="Setting_up_our_Cobol_project"></a>
 ###   <ins>Setting up our Cobol project</ins>
    - Create a new folder for your Cobol projects ```C:\myCobol``` <br>
+   - Create the following folders under ```C:\myCobol``` <br>
+      - ```C:\myCobol\debug``` <br>
+      - ```C:\myCobol\dll``` <br>
+      - ```C:\myCobol\exe``` <br>
+      - ```C:\myCobol\list``` <br>
+      - ```C:\myCobol\source``` <br>
    - Copy the two .bat files enclosed here ```crtcbl.bat``` and ```runcbl.bat``` into ```C:\myCobol``` <br>
-   - Copy the enclosed source file ```PROGRAM1.cob``` into ```C:\myCobol``` as well.<br>
-     (I have not yet figured out how to point the **cobc** and **cobcrun** commands to different input/output folders, which would enable separation of source files from executables).
+   - Copy the enclosed source file ```CLS01EX01.cob``` into ```C:\myCobol\sources``` as well.<br>
    
    <a name="Open_the_Cobol_project_in_Visual_Studio_Code"></a>
 ###   <ins>Open the Cobol project in Visual Studio Code</ins>
@@ -58,7 +63,7 @@ download the 64-bit version as seen here [GC32M-BDB-x64.7z] <br><br>
    - From the top menu, click ```File```, and choose ```Open Folder``` <br>
    - Select the **myCobol** folder <br>
    - Click on the MYCOBOL folder that appears in the Visual Studio Code explorer to the left <br>
-   - Click on the ```PROGRAM1.cob``` source file - the program displays the message **HELLO COBOL WORLD!** <br>
+   - Click on the ```CLS01EX01.cob``` source file - the program displays the message **HELLO COBOL WORLD!** <br>
    - The screen should look like this: <br><br>
      ![image](https://github.com/cobol-ninja/installations/assets/140850635/e843dec5-737a-46d9-a701-37a597ea0b50) <br><br>
    - The **COBOL Language Support** extension from Broadcom mentioned above is helpful in pointing out syntax errors such as a referenced variable that is not defined or a sentence that did not end with a period.<br><br>
@@ -82,15 +87,15 @@ download the 64-bit version as seen here [GC32M-BDB-x64.7z] <br><br>
 
    <a name="Compiling"></a>
 ###   <ins>Compiling</ins>
-   - To compile the program, type the command ```crtcbl``` followed by the name of the source ```PROGRAM1``` (no suffix) <br><br>
+   - To compile the program, type the command ```crtcbl``` followed by the name of the source ```CLS01EX01``` (no suffix) <br><br>
    ![image](https://github.com/cobol-ninja/installations/assets/140850635/7fdd4743-014d-44a7-a317-f9d391b548c0) <br>
-   - If all goes well, we should see the message ```Program PROGRAM1 compiled successfully``` appear in the terminal. <br>
-   We should also see a new executable file to the left, in the MYCOBOL folder, called ```PROGRAM1.dll``` <br><br>
+   - If all goes well, we should see the message ```Program CLS01EX01 compiled successfully``` appear in the terminal. <br>
+   We should also see a new executable file to the left, in the MYCOBOL folder, called ```CLS01EX01.dll``` <br><br>
    ![image](https://github.com/cobol-ninja/installations/assets/140850635/ee4e5260-f663-4190-a889-cfc656699591) <br>
 
       <a name="Running"></a>
 ###   <ins>Running</ins>
-   - To run the program, type the command ```runcbl``` followed by the name of the program ```PROGRAM1``` (no suffix) <br>
+   - To run the program, type the command ```runcbl``` followed by the name of the program ```CLS01EX01``` (no suffix) <br>
    - If all goes well, we should see the message ```HELLO COBOL WORLD!``` appear in the terminal. <br><br>
    ![image](https://github.com/cobol-ninja/installations/assets/140850635/c2f11847-8f3c-48d7-a729-4b7983296e4c) <br>
 
