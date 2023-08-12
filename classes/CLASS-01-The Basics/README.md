@@ -13,11 +13,14 @@ A few remarks:
 - After setting up the environment, you'll find the [Cobol Code Examples] that accompany tutorials from the [Cobol Ninja] website.
 - Check out this [video] for beginners about creating a Hello World program using GNU Cobol 
 
-|   	|   	|   	|   	|   	|
-|---	|---	|---	|---	|---	|
-|   	|   	|   	|   	|   	|
-|   	|   	|   	|   	|   	|
-|   	|   	|   	|   	|   	|
+
+
+
+| Tables   |      Are      |  Cool |
+|----------|:-------------:|------:|
+| col 1 is |  left-aligned | $1600 |
+| col 2 is |    centered   |   $12 |
+| col 3 is | right-aligned |    $1 |
 
 
 
