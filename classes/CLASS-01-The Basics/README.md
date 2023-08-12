@@ -3,24 +3,15 @@
 Special thanks to [Arnold Trembley], [Sergey Kashyrin] and especially [Simon Sobisch] of the [GNUCobol] project
 for their work, and for helping me get this right. <br>
 
-A few remarks:
-- This is a step-by-step description of what I did to install and run GNU Cobol on **Windows 10 Pro 64-bit operating system (x64-based processor)**. <br>
-- To simplify things, I added two .bat files to for the compile and run process (**cobc** and **cobrunc** commands are in the scripts): <br>
-  - ```crtcbl.bat``` for the compile (performs the SQL precompile when passed -s)
-  - ```runcbl.bat``` to run the program <br>
-- As of now I did not have to change or add to the Windows user or system environment variables. <br>
-- Support for embedded SQL is described at the bottom. I added information about usage with MySQL. <br>
-- After setting up the environment, you'll find the [Cobol Code Examples] that accompany tutorials from the [Cobol Ninja] website.
-- Check out this [video] for beginners about creating a Hello World program using GNU Cobol 
 
 
 
 
-| Tables   |      Are      |  Cool |
-|----------|:-------------:|------:|
-| col 1 is |  left-aligned | $1600 |
-| col 2 is |    centered   |   $12 |
-| col 3 is | right-aligned |    $1 |
+
+| Program   |  Assignment |  
+|-----------|:-------------:|
+| CLS01EX01 | Display 'Hello Cobol World' |
+| CLS01EX01 | Display 'Hello Cobol World' |
 
 
 
