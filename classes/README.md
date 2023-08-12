@@ -1,4 +1,4 @@
-# $\color{blue}{\textsf{Cobol\ Ninja\ Course:\ Class\ Exercises}}$
+# $\color{blue}{\textsf{Cobol Ninja Course: Class Exercises}}$
 
 Each class folder contains the exercises from the corresponding Cobol Ninja Course class video tutorial.<br>
 At the end of every tutorial, complete all the assignments associated with that class.<br>
