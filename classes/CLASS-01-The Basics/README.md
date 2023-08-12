@@ -1,4 +1,4 @@
-# $\color{blue}{\textsf{Cobol\ Ninja\ Course:\ Class 01 -\ The Basics\}}$
+# $\color{blue}{\textsf{Cobol Ninja Course: Class 01 - The Basics}}$
 
 Edit, compile and run the following programs:<br>
 
