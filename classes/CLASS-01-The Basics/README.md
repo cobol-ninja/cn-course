@@ -13,11 +13,11 @@ A few remarks:
 - After setting up the environment, you'll find the [Cobol Code Examples] that accompany tutorials from the [Cobol Ninja] website.
 - Check out this [video] for beginners about creating a Hello World program using GNU Cobol 
 
- |   |   |   |   |   | 
- |---|---|---|---|---| 
- |   |   |   |   |   | 
- |   |   |   |   |   | 
- |   |   |   |   |   |  
+|   	|   	|   	|   	|   	|
+|---	|---	|---	|---	|---	|
+|   	|   	|   	|   	|   	|
+|   	|   	|   	|   	|   	|
+|   	|   	|   	|   	|   	|
 
 
 
