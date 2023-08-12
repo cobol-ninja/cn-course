@@ -12,11 +12,17 @@ A few remarks:
 - Support for embedded SQL is described at the bottom. I added information about usage with MySQL. <br>
 - After setting up the environment, you'll find the [Cobol Code Examples] that accompany tutorials from the [Cobol Ninja] website.
 - Check out this [video] for beginners about creating a Hello World program using GNU Cobol 
-| Column 1 Header | Column 2 Header | Column 3 Header |
-| --------------- | --------------- | --------------- |
-| Row 1 Column 1 | Row 1 Column 2 | Row 1 Column 3 | 
-| Row 2 Column 1 | Row 2 Column 2 | Row 2 Column 3 |
-| Row 3 Column 1 | Row 3 Column 2 | Row 3 Column 3 |
+
+ |   |   |   |   |   | 
+ |---|---|---|---|---| 
+ |   |   |   |   |   | 
+ |   |   |   |   |   | 
+ |   |   |   |   |   |  
+
+
+
+
+
 [//]: # (These are reference links used in the body of this note and get stripped out when the markdown processor does its job. )
 [Arnold Trembley]:<https://www.linkedin.com/in/arnoldtrembley>
 [Sergey Kashyrin]:<https://www.linkedin.com/in/sergey-kashyrin-b736161>
