@@ -14,7 +14,7 @@ A few remarks:
 - Check out this [video] for beginners about creating a Hello World program using GNU Cobol 
 | Column 1 Header | Column 2 Header | Column 3 Header |
 | --------------- | --------------- | --------------- |
-| Row 1 Column 1 | Row 1 Column 2 | Row 1 Column 3 |
+| Row 1 Column 1 | Row 1 Column 2 | Row 1 Column 3 | 
 | Row 2 Column 1 | Row 2 Column 2 | Row 2 Column 3 |
 | Row 3 Column 1 | Row 3 Column 2 | Row 3 Column 3 |
 [//]: # (These are reference links used in the body of this note and get stripped out when the markdown processor does its job. )
