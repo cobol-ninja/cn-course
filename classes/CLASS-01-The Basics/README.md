@@ -1,7 +1,7 @@
 # $\color{blue}{\textsf{Cobol Ninja Course: Class 01 - The Basics}}$
 
-Edit, compile and run the following programs:<br>
-If you get stuck, the suggested solution is in the folder. 
+Edit, compile and run the following programs as show in the list below:<br>
+If you are encountering difficulties, you can contact us, or refer to the suggested solution provided for each program in the class folder.<br>
 
 |   Program   |   Assignment/steps   |
 |-------------|:---------------------|
