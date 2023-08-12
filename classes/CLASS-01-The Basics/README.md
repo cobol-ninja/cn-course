@@ -2,8 +2,8 @@
 
 Edit, compile and run the following programs:<br>
 
-| Program   |  Assignment  steps|
-|-----------|:-------------|
+| Program      |  Assignment  steps|
+|--------------|:-------------|
 | CLS01EX01 | Display 'Hello Cobol World' |
 | CLS01EX02 | - Accept a value into a variable<br>- Display the content of the variable |
 | CLS01EX03 | - Accept a value into a variable<br>- Move the content of the variable to a second variable<br>- Display the content of the second variable|
