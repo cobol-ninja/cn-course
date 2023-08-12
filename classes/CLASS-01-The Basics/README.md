@@ -7,11 +7,15 @@ for their work, and for helping me get this right. <br>
 
 
 
-
 | Program   |  Assignment |
 |-----------|:-------------|
 | CLS01EX01 | Display 'Hello Cobol World' |
 | CLS01EX02 | Accept a value into a variable; Display the content of the variable |
+| CLS01EX03 | Accept a value into a variable; Display the content of the variable |
+| CLS01EX04 | Accept a value into a variable; Display the content of the variable |
+| CLS01EX05 | Accept a value into a variable; Display the content of the variable |
+| CLS01EX06 | Accept a value into a variable; Display the content of the variable |
+| CLS01EX07 | Accept a value into a variable; Display the content of the variable |
 
 
 
