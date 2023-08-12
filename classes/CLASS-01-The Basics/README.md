@@ -2,7 +2,7 @@
 
 Edit, compile and run the following programs:<br>
 
-| Program   |  Assignment |
+| Program   |  Assignment  steps|
 |-----------|:-------------|
 | CLS01EX01 | Display 'Hello Cobol World' |
 | CLS01EX02 | Accept a value into a variable<br>Display the content of the variable |
