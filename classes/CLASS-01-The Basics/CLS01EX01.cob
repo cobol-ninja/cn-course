@@ -9,16 +9,10 @@
       *****************************************************************
        DATA                            DIVISION.
       *****************************************************************
-       working-storage  section.
-       01 a pic 99 value 3 .
-       01 b pic 99 value 3 .
-       01 c pic 99 value 3 .
       *****************************************************************
        PROCEDURE                       DIVISION.
       *****************************************************************
-           display 'hello'
-           compute a = b + c
+           DISPLAY 'HELLO COBOL WORLD!'
 
            EXIT PROGRAM.
            STOP RUN.
-           

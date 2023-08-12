@@ -15,11 +15,23 @@
       *================================================================
        WORKING-STORAGE                 SECTION.
       *================================================================
-   
+       01  INP-A                       PIC X(01).
+       01  INP-B                       PIC X(01).
+       01  INP-SAVE                    PIC X(01).
       *****************************************************************
        PROCEDURE                       DIVISION.
       *****************************************************************
-   
+           DISPLAY 'Type 1st value...'
+           ACCEPT INP-A
+           DISPLAY 'Type 2nd value...'
+           ACCEPT INP-B
+
+           MOVE INP-A TO INP-SAVE
+           MOVE INP-B TO INP-A
+           MOVE INP-SAVE TO INP-B 
+
+           DISPLAY 'The content of INP-A is: ' INP-A 
+           DISPLAY 'The content of INP-B is: ' INP-B 
 
            EXIT PROGRAM.
            STOP RUN.          
