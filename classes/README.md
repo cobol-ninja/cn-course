@@ -1,6 +1,8 @@
-# $\color{blue}{\textsf{GNU\ Cobol\ Installation\ on\ Windows\}}$
+# $\color{blue}{\textsf{Cobol\ Ninja\ Course\}}$
 
-Special thanks to [Arnold Trembley], [Sergey Kashyrin] and especially [Simon Sobisch] of the [GNUCobol] project
+Each class contains the exercises from the corresponding video tutorial.<br>
+
+
 for their work, and for helping me get this right. <br>
 
 A few remarks:
