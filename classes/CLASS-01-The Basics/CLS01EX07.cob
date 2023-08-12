@@ -1,18 +1,25 @@
       *****************************************************************
        IDENTIFICATION                  DIVISION.
       *****************************************************************
-       PROGRAM-ID.                     CLS01EX01.
-      * DISPLAY 'HELLO COBOL WORLD'
+       PROGRAM-ID.                     CLS01EX07. 
+      * ACCEPT 2 VALUES INTO 2 VARIABLES
+      * SWITCH THE CONTENTS OF THE VARIABLES
+      * THE FIRST VARIABLE WILL CONTAIN THE CONTENTS OF THE 2nd VARIBLE
+      * THE SECOND VARIABLE WILL THE CONTENTS OF THE 1st VARIABLE
       *****************************************************************
        ENVIRONMENT                     DIVISION.
       *****************************************************************
       *****************************************************************
        DATA                            DIVISION.
       *****************************************************************
+      *================================================================
+       WORKING-STORAGE                 SECTION.
+      *================================================================
+   
       *****************************************************************
        PROCEDURE                       DIVISION.
       *****************************************************************
-           DISPLAY 'HELLO COBOL WORLD!'
+   
 
            EXIT PROGRAM.
-           STOP RUN.
+           STOP RUN.          
