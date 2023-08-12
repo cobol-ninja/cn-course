@@ -1,7 +1,7 @@
 # $\color{blue}{\textsf{Cobol Ninja Course: Class 01 - The Basics}}$
 
 Edit, compile and run the following programs:<br>
-In the folder you will find the 
+If you get stuck, the suggested solution is in the folder. 
 
 |   Program   |   Assignment/steps   |
 |-------------|:---------------------|
