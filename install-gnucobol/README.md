@@ -25,9 +25,6 @@ A few remarks:
   - [Debugging](#Debugging) <br><br>
 - [Embedded SQL support](#Embedded_SQL_support)<br>
   - [Setting up MySQL](#Setting_up_MySQL) <br>
-  - [Setting up PostgreSQL](#Setting_up_PostgreSQL) <br>
-  - [Setting up Oracle](#Setting_up_Oracle) <br>
-  - [Setting up SQLServer](#Setting_up_SQLServer) <br>
 
 
 <a name="Installing_GNU_Cobol"></a>
