@@ -157,4 +157,4 @@ Since I am using the latest version of MySQL, I will download and install the la
 [MySQL Developer]:<https://dev.mysql.com>
 [Cobol Code Examples]:<https://github.com/cobol-ninja/code>
 [Cobol Ninja]:<https://www.cobol.ninja>
-[video]:<https://www.youtube.com/watch?v=wvk7hv84MBA>
+[video]:<https://www.youtube.com/watch?v=hZdRRk1U7JM&list=PL7LgghZnXLP35_vK25UuQUufPa5V_-AeS>
