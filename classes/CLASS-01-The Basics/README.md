@@ -1,4 +1,4 @@
-# $\color{blue}{\textsf{Cobol Ninja Course: Class 01 - The Basics}}$
+# Cobol Ninja Course: Class 01 - The Basics
 
 Edit, compile and run the following programs as show in the list below:<br>
 If you are encountering difficulties, you can contact us, or refer to the suggested solution provided for each program in the class folder.<br>
