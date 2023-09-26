@@ -13,7 +13,7 @@ A few remarks:
 - After setting up the environment, you'll find the [Cobol Code Examples] that accompany tutorials from the [Cobol Ninja] website.
 - Check out this [video] for beginners about creating a Hello World program using GNU Cobol 
 
-# $\color{blue}{\textsf{Table Of Contents}}$
+# Table Of Contents
 - [Installing GNU Cobol](#Installing_GNU_Cobol) <br><br>
 - [Installing Visual Studio Code](#Installing_Visual_Studio_Code) <br><br>
 - [Getting Started](#Getting_Started) <br>
@@ -28,7 +28,7 @@ A few remarks:
 
 
 <a name="Installing_GNU_Cobol"></a>
-# $\color{blue}{\textsf{Installing GNU Cobol}}$
+# Installing GNU Cobol
 - From Arnold Trembley's [GnuCOBOL/OpenCOBOL Downloads, Binaries, and Links] page, <br>
 download the 64-bit version as seen here [GC32M-BDB-x64.7z] <br><br>
 ![image](https://github.com/cobol-ninja/installations/assets/140850635/9597d237-fa99-4187-82c7-49e3c8b3f633) <br><br>
@@ -36,15 +36,14 @@ download the 64-bit version as seen here [GC32M-BDB-x64.7z] <br><br>
 ![image](https://github.com/cobol-ninja/installations/assets/140850635/24f85514-3b53-4f89-93e0-286cc3fc4182) <br><br>
 
 <a name="Installing_Visual_Studio_Code"></a>
-# $\color{blue}{\textsf{Installing Visual Studio Code}}$
+# Installing Visual Studio Code
 - From the [Visual Studio Code] page, download and install the **Visual Studio Code 64-bit version** <br><br>
 ![image](https://github.com/cobol-ninja/installations/assets/140850635/fc9c4d0d-3e9b-41c7-9a4d-36495429a18f) <br><br>
 - Add the **Cobol Language Support** extension from Broadcom <br><br>
 ![image](https://github.com/cobol-ninja/installations/assets/140850635/c80251c7-7071-41ff-8b26-672dd98d36f4) <br><br>
 
 <a name="Getting_Started"></a>
-# $\color{blue}{\textsf{Getting Started}}$
-
+# Getting Started
    <a name="Setting_up_our_Cobol_project"></a>
 ###   <ins>Setting up our Cobol project</ins>
    - Create a new folder for your Cobol projects ```C:\myCobol``` <br>
@@ -112,7 +111,7 @@ To exit the program just type quit at the (gdb) prompt (actually just typing q i
 -   step: step will go ahead and execute the current source line, and then stop execution again before the next source line.<br>
 
 <a name="Embedded_SQL_support"></a>
-# $\color{blue}{\textsf{Embedded SQL Support\}}$
+# Embedded SQL Support
 - From Sergey Kashyrin's [ESQL for ODBC for GnuCobol/OpenCOBOL] page, <br> download [ESQL Preprocessor and Runtime version 3 binaries for Windows x86-64(AMD-64) and x86(win32)] <br><br>
 ![image](https://github.com/cobol-ninja/installations/assets/140850635/9b6e75f5-6eff-4699-88f1-25d53f2056af) <br><br>
 <ins>Important</ins><br>
