@@ -1,4 +1,4 @@
-# $\color{blue}{\textsf{GNU\ Cobol\ Installation\ on\ Windows\}}$
+# GNU Cobol Installation on Windows
 
 Special thanks to [Arnold Trembley], [Sergey Kashyrin] and especially [Simon Sobisch] of the [GNUCobol] project
 for their work, and for helping me get this right. <br>
